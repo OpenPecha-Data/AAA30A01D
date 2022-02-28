@@ -1,0 +1,22 @@
+segment_sources:
+  P1827D5DA:
+    type: origin_type
+    relation: translation
+    language: en
+  PB64AB180:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  33c7cf619ed94680856434690441b75b:
+    P1827D5DA: 65ae5571e3644ded809224b8a8558f43
+    PB64AB180: e3c68a48c71c473bb7ce62b8cf9587a7
+  368379de63e8463f8dc8697f1c4fd6ce:
+    P1827D5DA: f7046158ae974893b036fb5d7f50ab89
+    PB64AB180: c2087a70147a4f76a29aa71a311220ce
+  88c9dc11d4ef46dbb9e0c70ec9fd2705:
+    P1827D5DA: 5bfda378a5964779a38840ae4c21482e
+    PB64AB180: 4b22d7f78f5d49eab9c346d1e374a18e
+  38ec2304339f48489cce60db9d45973b:
+    P1827D5DA: c47c133a1c2c4bfb9c95635752e1deb8
+    PB64AB180: a7a25413633246f1b7b706ab48581be1
